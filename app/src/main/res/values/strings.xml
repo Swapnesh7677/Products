@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CGPOC</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">emily.johnson@x.dummyjson.com</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="unauthorized_user">Unauthorized user</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don’t have an account? Register</string>
+    <string name="enter_username">Please enter your username</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="password_too_short">Password is too short</string>
+    <string name="internet_not_available">Please connect to the internet</string>
+    <string name="userlist">UserList</string>
+    <string name="all_users">All Users</string>
+    <string name="title_activity_product_detils">ProductDetilsActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+</resources>
